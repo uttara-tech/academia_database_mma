@@ -23,12 +23,12 @@
 
 ## Documents shared: ##
 
-### 1) requirement_specification : Lists functional and non-functional requirements.
+ 1) requirement_specification : Lists functional and non-functional requirements.
 
-### 2) Mid Module Assignment Report : 500-word report describing the design process
+ 2) Mid Module Assignment Report : 500-word report describing the design process
 
-### 3) database_academia.sql : Database to be imported
+ 3) database_academia.sql : Database to be imported
 
-### 4) create_users.sql : Script for creating 3 users. Other details in the script.
+ 4) create_users.sql : Script for creating 3 users. Other details in the script.
 
-### 5) data_entry.sql : Script that was used for entering records in database tables. Only for reference and not to be executed.
+ 5) data_entry.sql : Script that was used for entering records in database tables. Only for reference and not to be executed.
